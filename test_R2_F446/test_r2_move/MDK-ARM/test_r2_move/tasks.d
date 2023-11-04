@@ -1,0 +1,16 @@
+test_r2_move\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/tasks.c
+test_r2_move\tasks.o: D:\Dkong\ARM\ARMCC\Bin\..\include\stdlib.h
+test_r2_move\tasks.o: D:\Dkong\ARM\ARMCC\Bin\..\include\string.h
+test_r2_move\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+test_r2_move\tasks.o: D:\Dkong\ARM\ARMCC\Bin\..\include\stddef.h
+test_r2_move\tasks.o: D:\Dkong\ARM\ARMCC\Bin\..\include\stdint.h
+test_r2_move\tasks.o: ../Core/Inc/FreeRTOSConfig.h
+test_r2_move\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+test_r2_move\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+test_r2_move\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+test_r2_move\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+test_r2_move\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+test_r2_move\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+test_r2_move\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+test_r2_move\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+test_r2_move\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stack_macros.h
